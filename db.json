@@ -1,0 +1,27 @@
+{
+  "clients": [
+    {
+      "name": "So Min jang",
+      "company": "Logistics",
+      "email": "sominjang@hotmail.com",
+      "telephone": "",
+      "clientNotes": "Friend working in logistics, is looking to move away from that industry",
+      "id": 3
+    },
+    {
+      "name": "Isak Jakoel",
+      "company": "Elevar Global",
+      "email": "isak@elevar.mx",
+      "clientNotes": "Vice-President of Elevar Global and current Chief Operations Officer",
+      "id": 6
+    },
+    {
+      "name": "Vidit Gupta ",
+      "company": "Elevar Global",
+      "email": "vidit@elevar.mx",
+      "telephone": "016467242843",
+      "clientNotes": "President and Co-Founder of Elevar Global",
+      "id": 7
+    }
+  ]
+}
